@@ -1,9 +1,13 @@
-### ![SpikeMonkeyTypingGIF](https://github.com/giovlucas/giovlucas/assets/104012843/5e76d513-3165-408c-9337-6dd7f9cb9b91)
+### Parece uma confusão, mas tem um pouco de tudo porquê o objetivo final é ser um Arquiteto
+E quando não tô aqui, tô na academia
+![CatGymWorkoutGIF](https://github.com/giovlucas/giovlucas/assets/104012843/27fe0fdf-266f-4ea1-a6bb-fc8e0191c892)
+
 
 
 
 
 ### Ferramentas e Tecnologias 🧑🏻‍💻
+![SpikeMonkeyTypingGIF](https://github.com/giovlucas/giovlucas/assets/104012843/5e76d513-3165-408c-9337-6dd7f9cb9b91)
 ### Hard 🔥🔥🔥
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>          
