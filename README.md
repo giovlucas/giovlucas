@@ -1,4 +1,5 @@
-### Hi ![CatGIF](https://github.com/giovlucas/giovlucas/assets/104012843/da0db623-e39f-478a-a9d4-fcabd2f2af5f)
+![Uploading CatTypingCatTypingFireGIF.gif…]()
+
 
 
 ### Ferramentas e Tecnologias 🧑🏻‍💻
