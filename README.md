@@ -1,6 +1,7 @@
 ### Anotações raras de um nerdola maromba
-Atualmente sou DevOps & SRE, mas o objetivo final é ser um Arquiteto, e por isso tem repositorio de tudo, pq quanto mais, melhor... E quando não tô aqui, tô na academia
-![CatGymWorkoutGIF](https://github.com/giovlucas/giovlucas/assets/104012843/27fe0fdf-266f-4ea1-a6bb-fc8e0191c892)
+Atualmente sou DevOps & SRE, mas o objetivo final é ser um Arquiteto, e por isso tem repositorio de tudo, pq quanto mais, melhor (e quanto mais eu aprendo, menos eu sei sobre tudo) 
+E quando não tô aqui, tô na academia
+![CatGIF](https://github.com/giovlucas/giovlucas/assets/104012843/cf09bf69-f0bd-432e-9c88-241a78aa1fde)
 
 
 
