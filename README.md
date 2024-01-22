@@ -24,6 +24,6 @@
 
 <div>
 <a href="https://github.com/giovlucas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovlucas&layout=compact&langs_count=7&theme=tokyonight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=giovlucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?giovlucas&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?giovlucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
