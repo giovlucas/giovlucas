@@ -1,5 +1,5 @@
-### Parece uma confusão, mas tem um pouco de tudo porquê o objetivo final é ser um Arquiteto
-E quando não tô aqui, tô na academia
+### Anotações raras de um nerdola maromba
+Atualmente sou DevOps & SRE, mas o objetivo final é ser um Arquiteto, e por isso tem repositorio de tudo, pq quanto mais, melhor... E quando não tô aqui, tô na academia
 ![CatGymWorkoutGIF](https://github.com/giovlucas/giovlucas/assets/104012843/27fe0fdf-266f-4ea1-a6bb-fc8e0191c892)
 
 
