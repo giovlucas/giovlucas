@@ -34,7 +34,7 @@ E quando não tô aqui, tô na academia
 
 
 <div>
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovlucas&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovlucas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
