@@ -1,6 +1,7 @@
 ### Anotações raras de um nerdola maromba
-Atualmente sou DevOps & SRE, mas o objetivo final é ser um Arquiteto, e por isso tem repositorio de tudo, pq quanto mais, melhor (e quanto mais eu aprendo, menos eu sei sobre tudo) 
-E quando não tô aqui, tô na academia
+Atualmente estou cursando Engenharia de Software e já tive experiencias como Analista Cloud, DevOps e SRE, e tenho como objetivo obter MBA/Pós e certificações em Arquitetura de Software e(ou) Soluções.
+Devido aos objetivos os repositorios são tão diversos, documentações e anotações de tudo que aprendi e estou aprendendo, porquê quanto mais, melhor (e quanto mais eu aprendo, menos eu sei sobre tudo) 
+E quando não tô aqui, tô na academia pegando 400kg no legpress hehe 💪🏻
 
 
 
