@@ -1,6 +1,6 @@
 ### Anotações raras de um nerdola maromba
-Atualmente estou cursando Engenharia de Software e já tive experiencias como Analista Cloud, DevOps e SRE, e tenho como objetivo obter MBA/Pós e certificações em Arquitetura de Software e(ou) Soluções.
-Devido aos objetivos os repositorios são tão diversos, documentações e anotações de tudo que aprendi e estou aprendendo, porquê quanto mais, melhor (e quanto mais eu aprendo, menos eu sei sobre tudo) 
+Atualmente estou cursando Engenharia de Software e já tive experiencias como DevOps e Cloud Engineer, e tenho como objetivo obter Pós-Graduação e certificações em Arquitetura de Software e(ou) Soluções.
+Devido aos objetivos os repositorios são diversificados, documentações e anotações de tudo que aprendi e estou aprendendo, porque quanto mais, melhor (e quanto mais eu aprendo, menos eu sei sobre tudo) 
 E quando não tô aqui, tô na academia pegando 400kg no legpress hehe 💪🏻
 
 
