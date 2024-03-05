@@ -7,6 +7,6 @@ Quando não estou codando, estou na academia, em busca do shape inexplicável, o
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/lbguilherme">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbguilherme&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovlucas&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovlucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
