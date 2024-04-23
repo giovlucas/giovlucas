@@ -1,9 +1,12 @@
 ### Salve! ✌️
-Sou o Gio, um entusiasta da tecnologia que vive no mundo do código e da nuvem! 💻 Atualmente estou imerso nos estudos de Engenharia de Software com um objetivo claro: me tornar um Arquiteto de Soluções certificado e pós-graduado em Arquitetura de Software, enquanto aprimoro minhas habilidades em práticas DevOps. 🚀
+Sou o Gio, um entusiasta da tecnologia que vive no mundo da nuvem ☁️💻 
+Atualmente estou imerso nos estudos de Engenharia de Software e Gestão de TI com um objetivo claro de me tornar um Arquiteto de Soluções/Software Certificado e Pós-graduado, tudo isso enquanto aprimoro minhas habilidades em práticas DevOps, Site Reliability Engineer e Cloud Computing. 🚀
 
 Minha jornada com DevOps começou em 2021, e desde então, venho me aperfeiçoando em suas filosofias, implementando práticas como GitOps, estabelecendo monitoramento abrangente, aplicando conceitos de FinOps para otimizar os custos e utilizando Kubernetes para orquestração de contêineres, promovendo uma infraestrutura ágil e escalável. Tudo isso para garantir que os sistemas sejam mais confiáveis que o entregador da pizza de sexta à noite! 🍕
 
-Quando não estou na nuvem, estou na academia, em busca do shape inexplicável, ou então me divertindo muito (contém ironia) em partidas de Valorant - e ainda bem que sou um DevOps melhor do que um jogador! 👾
+Quando não estou na nuvem, estou na academia, em busca do shape inexplicável, ou então me divertindo muito (contém ironia) em partidas de Valorant ou outros jogos competitivos - e ainda bem que sou um DevOps melhor do que um jogador! 👾
+
+💪😄🤚
 
 ### Eu já trabalhei com... 🔧
 
